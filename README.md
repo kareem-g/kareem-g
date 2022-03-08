@@ -13,9 +13,6 @@ I'm a Junior Front-End Developer with 2 years of Experiance, I'm Avilable to .
 [![Linkedin Badge](https://img.shields.io/badge/-kareemgameel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kareemgameel/)](https://www.linkedin.com/in/kareemgameel/)
 [![Twitter Badge](https://img.shields.io/badge/-kareemgameel__-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kareemgameel_/)](https://www.linkedin.com/in/kareemgameel_/)
 
-## 📈 Stats
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-g&theme=vue)
-
 ## ⚡ Technologies
 
 ### Language :
@@ -38,10 +35,14 @@ I'm a Junior Front-End Developer with 2 years of Experiance, I'm Avilable to .
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-## Follow 
+## Follow me
 <p>
  <span>Twitter
 <a href='https://www.twitter.com/kareemgameel_' target='_blank'>@kareemgameel_</a>  
   </span>
 </p>
+
+## 📈 Stats
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-g&theme=vue)
+
 
