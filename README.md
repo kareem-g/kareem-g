@@ -3,14 +3,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kareem-g&label=visitors%20&color=129e00&style=plastic" alt="kareem-g" /> </p>
 
 
-## Hi Folks <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello, Folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am kareem gameel, . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-HanshulChandel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanshul-chandel/)](https://www.linkedin.com/in/hanshul-chandel/)
-[![Linkedin Badge](https://img.shields.io/badge/-kareemgameel_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kareemgameel_/)](https://www.linkedin.com/in/hanshul-chandel/)
 [![Gmail Badge](https://img.shields.io/badge/-kareemgameel2051@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kareemgameel2051@gmail.com)](mailto:kareemgameel2051@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-KareemGameel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kareemgameel/)](https://www.linkedin.com/in/kareemgameel/)
+[![Twitter Badge](https://img.shields.io/badge/-kareemgameel_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kareemgameel_/)](https://www.linkedin.com/in/hanshul-chandel/)
+
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://kareem-g.github.io/)](https://kareem-g.github.io/) -->
 ## 📈 Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-g&theme=vue)
