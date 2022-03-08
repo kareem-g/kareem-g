@@ -5,12 +5,18 @@
 
 ## Hello, Folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am kareem gameel
+I'm a Junior Front-End Developer with 2 years of Experiance, I'm Avilable to .
+
+## Follow 
+<p>
+ <span>CHECKOUT MY
+<a href='https://www.twitter.com/kareemgameel_' target='_blank'>CV</a>  
+  </span>
+</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-kareemgameel2051@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kareemgameel2051@gmail.com)](mailto:kareemgameel2051@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-kareemgameel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kareemgameel/)](https://www.linkedin.com/in/kareemgameel/)
 [![Twitter Badge](https://img.shields.io/badge/-kareemgameel__-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kareemgameel_/)](https://www.linkedin.com/in/kareemgameel_/)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://kareem-g.github.io/kareemgameel/index.html)](https://kareem-g.github.io/kareemgameel/index.html)
 
 ## 📈 Stats
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-g&theme=vue)
