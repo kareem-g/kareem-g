@@ -9,12 +9,11 @@ I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-HanshulChandel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanshul-chandel/)](https://www.linkedin.com/in/hanshul-chandel/)
-[![Linkedin Badge](https://img.shields.io/badge/-Hanshulll-green?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Hanshulll/)](https://www.linkedin.com/in/hanshul-chandel/)
-[![Instagram Badge](https://img.shields.io/badge/-hanshulll-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hanshulll/)](https://instagram.com/hanshulll)
-[![Gmail Badge](https://img.shields.io/badge/-hanshul.chandel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanshul.chandel@gmail.com)](mailto:hanshul.chandel@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://hanshulll.github.io/)](https://hanshulll.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-kareemgameel_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kareemgameel_/)](https://www.linkedin.com/in/hanshul-chandel/)
+[![Gmail Badge](https://img.shields.io/badge/-kareemgameel2051@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kareemgameel2051@gmail.com)](mailto:kareemgameel2051@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://kareem-g.github.io/)](https://kareem-g.github.io/)
 
-[![Hanshul's github activity graph](https://activity-graph.herokuapp.com/graph?username=hanshulll&theme=xcode)](https://git.io/hanshulll)
+[![Hanshul's github activity graph](https://activity-graph.herokuapp.com/graph?username=kareem-g&theme=xcode)](https://git.io/kareem-g)
 
 
 ## ⚡ Technologies
