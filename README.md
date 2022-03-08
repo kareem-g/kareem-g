@@ -40,6 +40,8 @@ I am kareem gameel, . I am a tech enthusiast & an open-source advocate. I am alw
 
 ## Follow 
 <p>
-<a href='https://www.twitter.com/kareemgameel_' target='_blank'><span>Twitter</span>@kareemgameel_</a>
+ <span>Twitter
+<a href='https://www.twitter.com/kareemgameel_' target='_blank'>@kareemgameel_</a>  
+  </span>
 </p>
 
