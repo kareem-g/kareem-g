@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kareem-g&label=visitors%20&color=129e00&style=plastic" alt="kareem-g" /> </p>
 
 
-## Hi, I am Hanshul! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi Folks, I am Kareem! Nice to met you all :D ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am kareem gameel, . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
