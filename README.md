@@ -26,7 +26,7 @@ I am kareem gameel, . I am a tech enthusiast & an open-source advocate. I am alw
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-react-563D7C?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind)
+![Tailwind](https://img.shields.io/badge/-tailwind-blue)
 
 ### Develpment Tools:
 
