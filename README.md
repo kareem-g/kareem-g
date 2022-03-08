@@ -8,11 +8,7 @@
 I'm a Junior Front-End Developer with 2 years of Experiance, I'm Avilable to .
 
 ## CV 
-## <p>
- <span>CHECKOUT MY
-<a href='https://www.twitter.com/kareemgameel_' target='_blank'>CV</a>  
-  </span>
-</p>
+### <p>CHECKOUT MY <a href='https://www.twitter.com/kareemgameel_' target='_blank'>CV</a> </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-kareemgameel2051@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kareemgameel2051@gmail.com)](mailto:kareemgameel2051@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-kareemgameel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kareemgameel/)](https://www.linkedin.com/in/kareemgameel/)
