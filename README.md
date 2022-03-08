@@ -7,8 +7,8 @@
 
 I'm a Junior Front-End Developer with 2 years of Experiance, I'm Avilable to .
 
-## Follow 
-<p>
+## CV 
+## <p>
  <span>CHECKOUT MY
 <a href='https://www.twitter.com/kareemgameel_' target='_blank'>CV</a>  
   </span>
