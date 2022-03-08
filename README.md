@@ -12,7 +12,7 @@ I am kareem gameel, . I am a tech enthusiast & an open-source advocate. I am alw
 [![Linkedin Badge](https://img.shields.io/badge/-kareemgameel_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kareemgameel_/)](https://www.linkedin.com/in/hanshul-chandel/)
 [![Gmail Badge](https://img.shields.io/badge/-kareemgameel2051@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kareemgameel2051@gmail.com)](mailto:kareemgameel2051@gmail.com)
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://kareem-g.github.io/)](https://kareem-g.github.io/) -->
-
+[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=kareem-g)
 
 ## ⚡ Technologies
 
