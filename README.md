@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kareem-g&label=visitors%20&color=129e00&style=plastic" alt="kareem-g" /> </p>
 
 
-## Hi Folks, I am Kareem! Nice to met you all :D ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi Folks <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am kareem gameel, . I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -38,8 +38,8 @@ I am kareem gameel, . I am a tech enthusiast & an open-source advocate. I am alw
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 💰 Support
+## Follow 
 <p>
-<a href='https://www.twitter.com/kareemgameel_' target='_blank'>kareemgameel_</a>
+<a href='https://www.twitter.com/kareemgameel_' target='_blank'>Twitter @kareemgameel_</a>
 </p>
 
