@@ -1,6 +1,6 @@
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hanshulll&label=visitors%20&color=129e00&style=plastic" alt="hanshulll" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kareem-g&label=visitors%20&color=129e00&style=plastic" alt="kareem-g" /> </p>
 
 
 ## Hi, I am Hanshul! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
@@ -28,25 +28,25 @@ I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [
 
 ### Libraries & Framework :
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-react-563D7C?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind)
 
-### DevOps & Cloud Tools:
+### Develpment Tools:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
 ## 💰 Support
 <p>
-<a href='https://www.buymeacoffee.com/hanshulll' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
+<a href='https://www.twitter.com/kareemgameel_' target='_blank'>kareemgameel_</a>
 </p>
 
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanshulll&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hanshulll&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kareem-g&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-g&theme=tokyonight" />
 </p>
  
