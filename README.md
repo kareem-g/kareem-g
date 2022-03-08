@@ -12,7 +12,6 @@ I am kareem gameel, . I am a tech enthusiast & an open-source advocate. I am alw
 [![Linkedin Badge](https://img.shields.io/badge/-kareemgameel_-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kareemgameel_/)](https://www.linkedin.com/in/hanshul-chandel/)
 [![Gmail Badge](https://img.shields.io/badge/-kareemgameel2051@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kareemgameel2051@gmail.com)](mailto:kareemgameel2051@gmail.com)
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://kareem-g.github.io/)](https://kareem-g.github.io/) -->
-[![Kareem's github activity graph](https://activity-graph.herokuapp.com/graph?username=kareem-g&theme=xcode)](https://git.io/kareem-g)
 
 
 ## ⚡ Technologies
@@ -27,8 +26,8 @@ I am kareem gameel, . I am a tech enthusiast & an open-source advocate. I am alw
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
