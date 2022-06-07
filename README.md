@@ -1,48 +1,32 @@
+## Hi there 👋 I'm Victor <img align="right" src="https://komarev.com/ghpvc/?username=Gictorbit&color=269077">
+### 👨🏻‍ &nbsp;About Me
+- 💻 I'm currently working as backend developer
+- 💻 I'm currently learning DevOps,Kubernetes and Rust
 
+### 🛠 &nbsp;Tech Stack
+![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
+![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)&nbsp;
+![gRPC](https://img.shields.io/badge/-gRPC-141a20?style=flat&logo=google)&nbsp;
+![shell](https://img.shields.io/badge/-Bash_Script-141a20?style=flat&logo=powershell)&nbsp;
+![Flask](https://img.shields.io/badge/-flask-141a20?style=flat&logo=flask)&nbsp;\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql&logoColor=blue)&nbsp;
+![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=blue)
+![Redis](https://img.shields.io/badge/-Redis-141a20?style=flat&logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
+![vim](https://img.shields.io/badge/-Vim-141a20?style=flat&logo=vim)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kareem-g&label=visitors%20&color=129e00&style=plastic" alt="kareem-g" /> </p>
+### ⚙️ &nbsp;GitHub Analytics
+![stats](https://github-readme-stats.vercel.app/api?username=gictorbit&theme=gotham&show_icons=true&border_color=2e3440)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gictorbit&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham&border_color=2e3440&card_width=250)
 
-
-## Hello, Folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-I'm a Junior Front-End Developer with 2 years of Experiance, I'm Avilable to .
-
-### <p>CHECKOUT MY <a href='https://www.twitter.com/kareemgameel_' target='_blank'>RESUME</a> </p>
-
-[![Gmail Badge](https://img.shields.io/badge/-kareemgameel2051@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kareemgameel2051@gmail.com)](mailto:kareemgameel2051@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-kareemgameel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kareemgameel/)](https://www.linkedin.com/in/kareemgameel/)
-[![Twitter Badge](https://img.shields.io/badge/-kareemgameel__-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kareemgameel_/)](https://www.linkedin.com/in/kareemgameel_/)
-
-## ⚡ Technologies
-
-### Language :
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-### Libraries & Framework :
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-
-### Develpment Tools:
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
-## Follow me
-<p>
- <span>Twitter
-<a href='https://www.twitter.com/kareemgameel_' target='_blank'>@kareemgameel_</a>  
-  </span>
-</p>
-
-## 📈 Stats
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-g&theme=vue)
-
+### 📫 &nbsp;Connect with Me
+[![gmail](https://img.shields.io/badge/-gictorbit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gictorbit@gmail.com)
+[![telegram](https://img.shields.io/badge/-@VlC7OR-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/VlC7OR)
 
