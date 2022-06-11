@@ -29,5 +29,5 @@
 
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-kareemgameel2051@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kareemgameel2051@gmail.com)
-[![whatsapp](https://img.shields.io/badge/-@VlC7OR-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/VlC7OR)
+[![whatsapp](https://img.shields.io/badge/-Online-141a20?style=flat&logo=whatsapp&logoColor=232C8EBB)](https://api.whatsapp.com/send?phone=01227856163)
 
