@@ -8,21 +8,21 @@
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-141a20?style=flat&logo=MUI&logoColor=1572B6)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind-141a20?style=flat&logo=tailwindcss&logoColor=2196f3)&nbsp;\
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled--Components-141a20?style=flat&logo=styled-components&logoColor=ffee58)
+![SASS](https://img.shields.io/badge/-SASS-141a20?style=flat&logo=SASS&logoColor=hotpink)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=JavaScript&logoColor=fff176)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-React-141a20?style=flat&logo=react&logoColor=1e88e5)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/-NextJS-141a20?style=flat&logo=next.js&logoColor=fff)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-FireBase-141a20?style=flat&logo=firebase&logoColor=ffa726)
 
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-141a20?style=flat&logo=npm&logoColor=ffa726)
+![Yarn](https://img.shields.io/badge/-Yarn-141a20?style=flat&logo=yarn&logoColor=232C8EBB)
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![stats](https://github-readme-stats.vercel.app/api?username=kareem-g&theme=gotham&show_icons=true&border_color=2e3440)
