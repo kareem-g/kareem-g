@@ -16,7 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=JavaScript&logoColor=fff176)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-React-141a20?style=flat&logo=react&logoColor=1e88e5)&nbsp;
 ![Next JS](https://img.shields.io/badge/-NextJS-141a20?style=flat&logo=next.js&logoColor=fff)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Firebase](https://img.shields.io/badge/-FireBase-141a20?style=flat&logo=firebase&logoColor=ffa726)
 
 
