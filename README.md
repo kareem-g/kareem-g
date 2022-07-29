@@ -13,6 +13,7 @@
 ![Styled Components](https://img.shields.io/badge/-Styled--Components-141a20?style=flat&logo=styled-components&logoColor=ffee58)
 ![SASS](https://img.shields.io/badge/-SASS-141a20?style=flat&logo=SASS&logoColor=hotpink)
 
+![TypeScript]https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=JavaScript&logoColor=fff176)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-React-141a20?style=flat&logo=react&logoColor=1e88e5)&nbsp;
 ![Next JS](https://img.shields.io/badge/-NextJS-141a20?style=flat&logo=next.js&logoColor=fff)
