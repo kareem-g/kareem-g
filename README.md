@@ -3,7 +3,7 @@
 - 💻 i'm currently looking for a job opportunity as a frontend (React) developer
 - 💻 I'm currently learning TypeScript and JavaScript Problem Solving
 
-![snake svg](https://github.com/wavescats/kareem-g/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/kareem-g/kareem-g/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 🛠 &nbsp;Tech Stack
